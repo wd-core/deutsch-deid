@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deutsch-deid"
+dynamic = ["version"]
+description = "deutsch-deid: PII detection, masking & anonymization for German EdTech applications."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+authors = [
+    { name = "wd-core" },
+]
+keywords = ["pii", "privacy", "nlp", "german", "edtech", "anonymization", "spacy", "deid", "gdpr"]
+classifiers = [
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Security",
+    "Topic :: Education",
+]
+dependencies = [
+    "spacy>=3.7.0,<4.0.0",
+    "pypdf>=4.0.0",
+    "python-docx>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/wd-core/deutsch-deid"
+Documentation = "https://github.com/wd-core/deutsch-deid#readme"
+Repository = "https://github.com/wd-core/deutsch-deid"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.dynamic]
+version = {attr = "deutsch_deid.__version__"}
+
+[tool.setuptools.package-data]
+"deutsch_deid" = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v"
