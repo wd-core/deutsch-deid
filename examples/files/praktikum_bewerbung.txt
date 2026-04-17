@@ -1,0 +1,42 @@
+﻿Betreff: Bewerbung um ein Praktikum im Bereich Data Science
+
+
+Sehr geehrte Damen und Herren,
+
+
+mein Name ist Max Mustermann und ich bewerbe mich hiermit um ein Praktikum in Ihrem Unternehmen in Berlin.
+
+
+Ich wurde am 15. März 2002 geboren und bin derzeit Student der Informatik. Für ein persönliches Gespräch stehe ich Ihnen gerne am 10.06.2026 um 14:30 Uhr zur Verfügung.
+
+
+Sie können mich jederzeit telefonisch unter +49 151 23456789 oder per E-Mail unter max.mustermann@example.com erreichen. Weitere Informationen finden Sie auch auf meiner 
+
+
+Website: https://www.maxmustermann.de
+ 
+
+
+Meine aktuelle Adresse lautet:
+Musterstraße 12
+10115 Berlin
+Deutschland
+
+
+Zusätzlich möchte ich Ihnen einige relevante Identifikationsdaten mitteilen, die für den Bewerbungsprozess erforderlich sein könnten:
+
+
+Sozialversicherungsnummer: 12 150780 J 009
+Steuer-ID: 12345678903
+
+
+Meine letzte Anmeldung im Bewerbungsportal erfolgte von der IP-Adresse 192.168.1.1.
+
+
+Ich freue mich sehr über die Möglichkeit, praktische Erfahrungen in Ihrem Unternehmen zu sammeln und meine Kenntnisse im Bereich Data Science zu vertiefen.
+
+
+Mit freundlichen Grüßen
+
+
+Max Mustermann
