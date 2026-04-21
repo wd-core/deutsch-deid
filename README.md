@@ -275,7 +275,7 @@ from deutsch_deid import analyze, guard, custom_pattern, ALL_DE_ENTITY_TYPES
 | Standard | Unterstützung durch diese Bibliothek |
 |----------|----------------------|
 | **DSGVO / GDPR** | De-identifiziert personenbezogene Daten vor Speicherung oder Übertragung; unterstützt Datensparsamkeitspflichten |
-| **Schülerdatenschutz** | Bietet eine technische Kontrollschicht für die Pseudonymisierung von Schüler- und Lernenddaten in EdTech-Pipelines |
+| **Schülerdatenschutz** | Bietet eine technische Kontrollschicht für die Pseudonymisierung von Schüler- und Lernendendaten in EdTech-Pipelines |
 | **Mensch im Loop** | Automatische Erkennung ist probabilistisch — bei kritischen Datensätzen immer eine manuelle Überprüfung des anonymisierten Outputs einplanen |
 
 > Diese Bibliothek ist ein **technisches Werkzeug**, keine rechtliche Garantie. Die gesamte Pipeline-Architektur, Zugriffskontrollen und Data-Governance-Richtlinien müssen die geltenden regulatorischen Anforderungen erfüllen.
